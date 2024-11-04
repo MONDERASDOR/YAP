@@ -1,0 +1,30 @@
+{
+  "name": "yap-cli",
+  "version": "1.2.8",
+  "description": "Yet Another Package Manager",
+  "main": "lib/index.js",
+  "bin": {
+    "yap": "./bin/yap.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.2",
+    "commander": "^9.4.1",
+    "fs-extra": "^10.0.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0"
+  },
+  "keywords": [
+    "cli",
+    "package-manager",
+    "npm"
+  ],
+  "author": "Sa3donDevelopment",
+  "license": "MIT"
+}

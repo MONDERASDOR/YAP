@@ -1,0 +1,15 @@
+{
+    "registry": "https://registry.npmjs.org", 
+    "cacheDirectory": "./cache",              
+    "auth": {                                 
+      "username": "",                         
+      "token": ""                            
+    },
+    "logging": {                              
+      "level": "info",                        
+      "file": "./logs/yap.log"                
+    },
+    "packageDirectory": "./packages",         
+    "defaultTimeout": 5000                    
+  }
+  
