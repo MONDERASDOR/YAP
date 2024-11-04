@@ -1,7 +1,7 @@
 
 # YAP (Yet Another Package Manager)
 
-**[Add your library logo or badge here]**
+
 
 YAP is a Node.js command-line interface (CLI) tool designed as an alternative to popular package managers like npm and Yarn. It offers simple and effective package management commands for installing, updating, removing, and publishing packages, along with user authentication functionality.
 
